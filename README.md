@@ -1,0 +1,2 @@
+# bot-ZottiCraft
+Zotti Bot
